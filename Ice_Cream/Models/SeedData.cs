@@ -30,7 +30,8 @@ namespace Practical.Models
                     );
                      
                 context.SaveChanges();
-            }
+            };
+    
         }
     }
 }

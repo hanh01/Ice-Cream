@@ -14,6 +14,7 @@ namespace Ice_Cream.Models
             context = ctx;
         }
         public IQueryable<Product> Products => context.Products;
+        public IQueryable<Customer> Customers => context.Customers;
 
     }
 }

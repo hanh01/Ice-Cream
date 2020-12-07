@@ -1,0 +1,156 @@
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.exe
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.deps.json
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.runtimeconfig.json
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.pdb
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.Views.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.Views.pdb
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.TagHelpers.input.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.TagHelpers.output.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorCoreGenerate.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.Views.pdb
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\staticwebassets\Ice_Cream.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\staticwebassets\Ice_Cream.StaticWebAssets.xml
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.dll
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.pdb
+C:\Users\ASUS\source\repos\Ice_Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.genruntimeconfig.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.exe
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.deps.json
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.runtimeconfig.json
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.runtimeconfig.dev.json
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.pdb
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.Views.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Ice_Cream.Views.pdb
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csprojAssemblyReference.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.AssemblyInfoInputs.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.AssemblyInfo.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorAssemblyInfo.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorAssemblyInfo.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.TagHelpers.input.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.TagHelpers.output.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorCoreGenerate.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorTargetAssemblyInfo.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.RazorTargetAssemblyInfo.cs
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.Views.pdb
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csproj.CopyComplete
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\staticwebassets\Ice_Cream.StaticWebAssets.Manifest.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\staticwebassets\Ice_Cream.StaticWebAssets.xml
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.dll
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.pdb
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.genruntimeconfig.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csproj.CoreCompileInputs.cache
+D:\Visual studio code\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.MvcApplicationPartsAssemblyInfo.cache
